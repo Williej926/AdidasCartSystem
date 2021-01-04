@@ -363,8 +363,6 @@ async def on_message(message):
             print(e);
             print("L");
 
-    # await client.send_message(message.channel,"Check dms :)")
-    # await client.send_message(message.channel, "you are right my friend")
 
 
 # Runs the bot
