@@ -293,52 +293,36 @@ async def on_message(message):
                 fourHalf.append(embed)
                 # fourHalf.append(embed)
             if (size == "5"):
-                # await client.send_message(client.get_server("451505157549588513").get_member_named("Schlop#1111"),embed=embed)
                 five.append(embed)
             if (size == "5.5"):
-                # await client.send_message(client.get_server("451505157549588513").get_member_named("Schlop#1111"),embed=embed)
                 fiveHalf.append(embed)
             if (size == "6"):
-                # await client.send_message(client.get_server("451505157549588513").get_member_named("Ratatoilet#0001"),embed=embed)
                 six.append(embed)
             if (size == "6.5"):
-                # await client.send_message(client.get_server("552219609332449287").get_member_named("Alpha#9999"),embed=embed)
                 sixHalf.append(embed)
             if (size == "7"):
-                # await client.send_message(client.get_server("451505157549588513").get_member_named("Ratatoilet#0001"),embed=embed)
                 seven.append(embed)
             if (size == "7.5"):
-                # await client.send_message(client.get_server("451505157549588513").get_member_named("Ratatoilet#0001"),embed=embed)
                 sevenHalf.append(embed)
             if (size == "8"):
-                # await client.send_message(client.get_server("552219609332449287").get_member_named("Rindler#0420"),embed=embed)
                 eight.append(embed)
             if (size == "8.5"):
-                # await client.send_message(client.get_server("552219609332449287").get_member_named("Alpha#9999"),embed=embed)
                 eightHalf.append(embed)
             if (size == "9"):
-                # await client.send_message(client.get_server("552219609332449287").get_member_named("Alpha#9999"),embed=embed)
                 nine.append(embed)
             if (size == "9.5"):
-                # await client.send_message(client.get_server("552219609332449287").get_member_named("Alpha#9999"),embed=embed)
                 nineHalf.append(embed)
             if (size == "10"):
-                # await client.send_message(client.get_server("552219609332449287").get_member_named("Alpha#9999"),embed=embed)
                 ten.append(embed)
             if (size == "10.5"):
-                # await client.send_message(client.get_server("451505157549588513").get_member_named("PenguinMaster926#0926"),embed=embed)
                 tenHalf.append(embed)
             if (size == "11"):
-                # await client.send_message(client.get_server("451505157549588513").get_member_named("PenguinMaster926#0926"),embed=embed)
                 eleven.append(embed)
             if (size == "11.5"):
-                # await client.send_message(client.get_server("451505157549588513").get_member_named("PenguinMaster926#0926"),embed=embed)
                 elevenHalf.append(embed)
             if (size == "12"):
-                # await client.send_message(client.get_server("451505157549588513").get_member_named("PenguinMaster926#0926"),embed=embed)
                 twelve.append(embed)
             if (size == "12.5"):
-                # await client.send_message(client.get_server("552219609332449287").get_member_named("Alpha#9999"),embed=embed)
                 twelveHalf.append(embed)
             if (size == "13"):
                 thirteen.append(embed)
